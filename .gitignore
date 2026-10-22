@@ -1,0 +1,8 @@
+node_modules
+dist
+agent-office.config.json
+.env
+.env.*
+.claude/
+*.log
+logs/

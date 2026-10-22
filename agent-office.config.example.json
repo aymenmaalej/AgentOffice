@@ -1,0 +1,11 @@
+{
+  "port": 4317,
+  "tmuxCommand": ["tmux"],
+  "claudeCommand": "claude",
+  "maxAgentsPerRepo": 2,
+  "importDays": 3,
+  "repos": [
+    { "name": "api", "path": "/home/me/code/api" },
+    { "name": "web", "path": "/home/me/code/web" }
+  ]
+}
